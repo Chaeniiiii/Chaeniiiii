@@ -5,7 +5,7 @@
   <h6>📧 EMAIL : codms7020@naver.com</h6>
   
   
-  ![chaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaening&show_icons=true&theme=dark)
+  ![chaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&show_icons=true&theme=dark)
   
   
   <h4>⌨ Language ⌨</h4>
