@@ -7,20 +7,17 @@
  <br><br>
  
 ## 📌 Languages
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  
-  <h6>📧 EMAIL : codms7020@naver.com</h6>
-  
-  
-  ![chaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&show_icons=true&theme=dark)
-  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-23ED8B00?style=flat&logo=Java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-%#000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
   
   <h4>⌨ Language ⌨</h4>
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  <br>
   <h4>🛠️ Tools 🛠️</h4>
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
