@@ -23,5 +23,5 @@
 <br><br>
 
 ## 🐛 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&count_private=true&show_icons=true&theme=great-gatsby)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&count_private=true&show_icons=true&theme=great-gatsby)
 <br>
