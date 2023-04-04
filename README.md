@@ -7,9 +7,8 @@
  <br><br>
  
 ## 📌 Languages
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/IntelliJ IDEA-EF2D5E?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
    
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
