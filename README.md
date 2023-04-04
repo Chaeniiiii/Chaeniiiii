@@ -19,4 +19,10 @@
 |  [식단 저장 어플 FOODIET ](https://github.com/Chaeniiiii/MS_Project)  |           모바일소프트웨어 프로젝트           |       java       | 참여  | 2022 |
 |             [웹 크롤러 구현 ](https://github.com/Chaeniiiii/Wine_Project)              |     개인 프로젝트      |          Python          | 참여  | 2023 |  
 
+
 <br><br>
+
+## 🐛 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeniiii&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
