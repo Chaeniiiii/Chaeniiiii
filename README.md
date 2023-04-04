@@ -23,6 +23,5 @@
 <br><br>
 
 ## 🐛 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeniiiii&layout=compact&langs_count=5&theme=dark&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeniiiii&count_private=true&show_icons=true&theme=great-gatsby)]
 <br>
