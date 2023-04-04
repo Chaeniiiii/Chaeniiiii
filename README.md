@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/IntelliJ-%000000?style=for-the-badge&logo=IntelliJ&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-%000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/> 
   
   <h4>⌨ Language ⌨</h4>
 
