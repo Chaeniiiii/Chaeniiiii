@@ -1,6 +1,13 @@
-<div align="center">
-  <h1> 강채은입니다. </h1>
+# Welcome to chaen's Github!
 
+## 📌 Profile 
+
+ 🏫 Dongguk University Dept. of Information & Communication Engineering (2020~) <br/>
+ 📧 EMAIL : codms7020@naver.com</h6>
+ <br><br>
+ 
+## 📌 Languages
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   
   <h6>📧 EMAIL : codms7020@naver.com</h6>
   
