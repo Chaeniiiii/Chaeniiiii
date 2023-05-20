@@ -17,7 +17,6 @@
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
    
    <br>
-   
    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 
 ## 📌 Projects
