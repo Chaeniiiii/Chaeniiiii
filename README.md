@@ -6,9 +6,8 @@
  📧 EMAIL : codms7020@naver.com</h6>
  <br><br>
  
-## <div align="center">📌 Tech Stack</div>
+## <div align="center">📌 Tech Stack
 
-  <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
   <br>
   
