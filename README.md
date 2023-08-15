@@ -19,9 +19,10 @@
    <br>
    
    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
- </div>
+
    
-## 📌 Projects
+   ## 📌 Projects
+</div>
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 | [동심-메타버스](https://github.com/Chaeniiiii/DS_Project ) | 기업사회 캡스톤 디자인 프로젝트  |       Unity, C#        | 참여  | 2022 |
