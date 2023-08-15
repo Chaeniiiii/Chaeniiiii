@@ -6,7 +6,7 @@
  📧 EMAIL : codms7020@naver.com</h6>
  <br><br>
  
-  <div align="center">
+ <div align="center">
    
    ## 📌 Tech Stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
@@ -18,7 +18,7 @@
    <br>
    
    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
-   </div>
+  </div>
    
 ## 📌 Projects
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
