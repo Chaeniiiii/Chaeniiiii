@@ -1,12 +1,12 @@
 # Welcome to chaen's Github!
-
-## 📌 Profile 
-
- 🏫 Dongguk University Dept. of Information & Communication Engineering (2020~) <br/>
- 📧 EMAIL : codms7020@naver.com</h6>
- <br><br>
+<div align="center">
+ ## 📌 Profile 
  
- <div align="center">
+  🏫 Dongguk University Dept. of Information & Communication Engineering (2020~) <br/>
+  📧 EMAIL : codms7020@naver.com</h6>
+  <br><br>
+ 
+
    
    ## 📌 Tech Stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
