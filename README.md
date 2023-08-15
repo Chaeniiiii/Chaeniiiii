@@ -18,7 +18,7 @@
    <br>
    
    <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
-  </div>
+ </div>
    
 ## 📌 Projects
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
