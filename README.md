@@ -1,7 +1,7 @@
 # Welcome to chaen's Github!
 <div align="center">
  
- ## 📌 Profile 
+  ## 📌 Profile 
  
   🏫 Dongguk University Dept. of Information & Communication Engineering (2020~) <br/>
   📧 EMAIL : codms7020@naver.com</h6>
