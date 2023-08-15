@@ -1,5 +1,6 @@
 # Welcome to chaen's Github!
 <div align="center">
+ 
  ## 📌 Profile 
  
   🏫 Dongguk University Dept. of Information & Communication Engineering (2020~) <br/>
