@@ -23,7 +23,9 @@
    <img src="https://img.shields.io/badge/amazons3 -1572B6?style=for-the-badge&logo=amazons3&logoColor=white"/> 
    
    <br>
-   <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack -4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"/> 
+   <img src="https://img.shields.io/badge/slack -4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 
    
    ## 📌 Projects
