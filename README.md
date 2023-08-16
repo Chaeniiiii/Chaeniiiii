@@ -11,19 +11,20 @@
 
    
    ## 📌 Tech Stack
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
-  <br>
-  
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=Java&logoColor=white"/> 
+   <br>
+   
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
    <img src="https://img.shields.io/badge/IntelliJ IDEA-EF2D5E?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
    <img src="https://img.shields.io/badge/JPA -FFDC28?style=for-the-badge&logo=JPA&logoColor=white"/> 
    <img src="https://img.shields.io/badge/mysql -4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+   
    <br>
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
    <img src="https://img.shields.io/badge/amazons3 -1572B6?style=for-the-badge&logo=amazons3&logoColor=white"/> 
-   <br>
    
-   <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+   <br>
+   <img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack -4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 
    
    ## 📌 Projects
