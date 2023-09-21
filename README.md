@@ -38,6 +38,7 @@
 |  [식단 저장 어플 FOODIET ](https://github.com/Chaeniiiii/MS_Project)  |           모바일소프트웨어 프로젝트           |       java       | 참여  | 2022 |
 |             [웹 크롤러 구현 ](https://github.com/Chaeniiiii/Wine_Project)              |     개인 프로젝트      |          Python          | 참여  | 2023 |  
 |             [공기정화 식물 웹 쇼핑몰 Farmer](https://github.com/TeamProject-Farmer)              |     팀 프로젝트      |          java          | back-end 참여 | 2023 |  
+|             [동국대학교 맛집 추천 앱 FoDong](https://github.com/KKWJ-DGU/FoDong-SERVER)              |     팀 프로젝트      |          java          | back-end 참여 | 2023 |  
 
 
 <br><br>
