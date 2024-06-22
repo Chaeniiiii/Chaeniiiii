@@ -39,7 +39,7 @@
 |             [웹 크롤러 구현 ](https://github.com/Chaeniiiii/Wine_Project)              |     개인 프로젝트      |          Python          | 참여  | 2023 |  
 |             [공기정화 식물 웹 쇼핑몰 Farmer](https://github.com/TeamProject-Farmer)              |     팀 프로젝트      |          java          | back-end 참여 | 2023 |  
 |             [동국대학교 맛집 추천 앱 FoDong](https://github.com/KKWJ-DGU/FoDong-SERVER)              |     팀 프로젝트      |          java          | back-end 참여 | 2023.09 ~ | 
-|             [동국대학교 캡스톤디자인 Lawing]([https://github.com/KKWJ-DGU/FoDong-SERVER](https://github.com/2024-1-Dongguk-CapstoneDesign/Lawing-SERVER))              |     팀 프로젝트      |          java          | back-end 참여 | 2024.03 - 2024.06 | 
+|             [동국대학교 캡스톤디자인 Lawing](https://github.com/2024-1-Dongguk-CapstoneDesign/Lawing-SERVER)             |     팀 프로젝트      |          java          | back-end \n 참여 | 2024.03 - 2024.06 | 
 
 
 
