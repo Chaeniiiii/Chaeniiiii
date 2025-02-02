@@ -46,7 +46,7 @@
 |                                              Project                                              |               Contest                |       Tech Stack       | Award | Year |
 | :-----------------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------: | :---: | :--: |
 |  [식단 저장 어플 FOODIET ](https://github.com/Chaeniiiii/MS_Project)  |           모바일소프트웨어 프로젝트           |       Android Studio      | 참여  | 2022 |
-|             [공기정화 식물 웹 쇼핑몰 Farmer](https://github.com/TeamProject-Farmer)              |     팀 프로젝트      |          Spinrg boot, MySQL          | back-end 참여 | 2023 |  
+|             [공기정화 식물 웹 쇼핑몰 Farmer]([https://github.com/TeamProject-Farmer](https://github.com/TeamProject-Farmer/back-end))              |     팀 프로젝트      |          Spinrg boot, MySQL          | back-end 참여 | 2023 |  
 
   
 
